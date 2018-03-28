@@ -40,6 +40,6 @@ pip3 install tensorflow-gpu --upgrade
 
 **6. Pickle**
 
-``
+```
 pip3 install pickle --upgrade
 ```
