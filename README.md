@@ -56,6 +56,18 @@ https://serv.cusp.nyu.edu/projects/urbansounddataset/
 
 # Extracted Audio Features
 
+The main extracted features from the audio are:
+
+**Melspectrogram:** Compute a Mel-scaled power spectrogram
+
+**MFCC:** Mel-frequency cepstral coefficients
+
+**chorma-stft**: Compute a chromagram from a waveform or power spectrogram
+
+**spectral_contrast**: Compute spectral contrast
+
+**tonnetz:** Computes the tonal centroid features (tonnetz)
+
 **1. Air Conditioner Audio Features**
 
 <img src="Outputs/air conditioner_features.jpg" alt="" width="100%">
