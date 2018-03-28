@@ -46,7 +46,7 @@ pip3 install pickle --upgrade
 
 # Dataset
 
-The dataset I am using for this project is the "Urban Sound Classification" dataset.
+The dataset I am using for this project is the "UrbanSound dataset".
 
 Download the dataset from the link below and place inside the dataset folder.
 
