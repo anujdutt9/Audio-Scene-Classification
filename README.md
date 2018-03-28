@@ -53,3 +53,25 @@ Download the dataset from the link below and place inside the dataset folder.
 ```
 https://serv.cusp.nyu.edu/projects/urbansounddataset/
 ```
+
+# Extracted Audio Features
+
+**1. Air Conditioner Audio Features**
+
+<img src="Outputs/air conditioner_features.jpg" alt="" width="100%">
+
+**2. Car Horn Audio Features**
+
+<img src="Outputs/car horn_features.jpg" alt="" width="100%">
+
+**3. Children Playing Audio Features**
+
+<img src="Outputs/children playing_features.jpg" alt="" width="100%">
+
+**4. Dog Barking Audio Features**
+
+<img src="Outputs/dog bark_features.jpg" alt="" width="100%">
+
+**5. Idle Engine Audio Features**
+
+<img src="Outputs/engine idling_features.jpg" alt="" width="100%">
