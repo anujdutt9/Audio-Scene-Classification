@@ -43,3 +43,13 @@ pip3 install tensorflow-gpu --upgrade
 ```
 pip3 install pickle --upgrade
 ```
+
+# Dataset
+
+The dataset I am using for this project is the "Urban Sound Classification" dataset.
+
+Download the dataset from the link below and place inside the dataset folder.
+
+```
+https://serv.cusp.nyu.edu/projects/urbansounddataset/
+```
