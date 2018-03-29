@@ -44,6 +44,12 @@ pip3 install tensorflow-gpu --upgrade
 pip3 install pickle --upgrade
 ```
 
+**7. TQDM [for Progressbar]**
+
+```
+pip3 install tqdm --upgrade
+```
+
 # Dataset
 
 The dataset I am using for this project is the "UrbanSound dataset".
