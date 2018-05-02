@@ -2,6 +2,8 @@
 
 ***This repository contains the code for project "Audio Scene Classification". This project uses audio in the nearby environment to classify the things in a scene without using a visual component.***
 
+**PROJECT STATUS:** Ongoing
+
 # Requirements
 
 **1. Python 3.6**
