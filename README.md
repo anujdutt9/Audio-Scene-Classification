@@ -4,6 +4,14 @@
 
 **PROJECT STATUS:** Ongoing
 
+**To convert WAVE audio files from 44.1 or 48 KHz to 16 KHz PCM WAVE file, use the following command from the current audio files folder:**
+
+```
+for f in *.wav;do 
+  ffmpeg -i $f -ar 16000 path_to_destination_folder/${f}; 
+done
+```
+
 # Requirements
 
 **1. Python 3.6**
